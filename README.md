@@ -1,9 +1,9 @@
 # Fancy-Fuffer
 
 ### Usage
-Using the tool "fuff" it "fuffs" from a provided website, with using user-defined wordlists/arguments. What makes this diffrent is this streamlines fuffing by adding a CLI based GUI making the process faster.
+   Using the tool "fuff" it "fuffs" from a provided website, with using user-defined wordlists/arguments. What makes this diffrent is this streamlines fuffing by adding a CLI based GUI making the process faster.
 
-**(basicaly use this if a website might have sub-directorys that you need to see/scan for to reach your goal.)**
+   **(basicaly use this if a website might have sub-directorys that you need to see/scan for to reach your goal.)**
 
 ### How to Use
 
